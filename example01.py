@@ -11,10 +11,10 @@ class Solution:
 
 class Solution1(Solution):
     '''
-    Ö´ÐÐÓÃÊ± :112 ms, ÔÚËùÓÐ Python3 Ìá½»ÖÐ»÷°ÜÁË8.20%µÄÓÃ»§
-    ÄÚ´æÏûºÄ :13.3 MB, ÔÚËùÓÐ Python3 Ìá½»ÖÐ»÷°ÜÁË100.00%µÄÓÃ»§
+    æ‰§è¡Œç”¨æ—¶ :112 ms, åœ¨æ‰€æœ‰ Python3 æäº¤ä¸­å‡»è´¥äº†8.20%çš„ç”¨æˆ·
+    å†…å­˜æ¶ˆè€— :13.3 MB, åœ¨æ‰€æœ‰ Python3 æäº¤ä¸­å‡»è´¥äº†100.00%çš„ç”¨æˆ·
 
-    ½áÂÛ ÐÂ½¨ÁÐ±íÓÐÏûºÄ, ÁÐ±íºÏ²¢Ð§ÂÊµÍ
+    ç»“è®º æ–°å»ºåˆ—è¡¨æœ‰æ¶ˆè€—, åˆ—è¡¨åˆå¹¶æ•ˆçŽ‡ä½Ž
     '''
     __name__ = "Solution1"
 
@@ -32,8 +32,8 @@ class Solution1(Solution):
 
 class Solution2((Solution)):
     '''
-    Ö´ÐÐÓÃÊ± :76 ms, ÔÚËùÓÐ Python3 Ìá½»ÖÐ»÷°ÜÁË37.27%µÄÓÃ»§
-    ÄÚ´æÏûºÄ :13.3 MB, ÔÚËùÓÐ Python3 Ìá½»ÖÐ»÷°ÜÁË100.00%µÄÓÃ»§
+    æ‰§è¡Œç”¨æ—¶ :76 ms, åœ¨æ‰€æœ‰ Python3 æäº¤ä¸­å‡»è´¥äº†37.27%çš„ç”¨æˆ·
+    å†…å­˜æ¶ˆè€— :13.3 MB, åœ¨æ‰€æœ‰ Python3 æäº¤ä¸­å‡»è´¥äº†100.00%çš„ç”¨æˆ·
     '''
     __name__ = "Solution2"
 
@@ -54,8 +54,8 @@ class Solution2((Solution)):
 
 class Solution3((Solution)):
     '''
-    Ö´ÐÐÓÃÊ± :72 ms, ÔÚËùÓÐ Python3 Ìá½»ÖÐ»÷°ÜÁË57.39%µÄÓÃ»§
-    ÄÚ´æÏûºÄ :13.4 MB, ÔÚËùÓÐ Python3 Ìá½»ÖÐ»÷°ÜÁË100.00%µÄÓÃ»§
+    æ‰§è¡Œç”¨æ—¶ :72 ms, åœ¨æ‰€æœ‰ Python3 æäº¤ä¸­å‡»è´¥äº†57.39%çš„ç”¨æˆ·
+    å†…å­˜æ¶ˆè€— :13.4 MB, åœ¨æ‰€æœ‰ Python3 æäº¤ä¸­å‡»è´¥äº†100.00%çš„ç”¨æˆ·
     '''
     __name__ = "Solution3"
 
@@ -74,8 +74,8 @@ class Solution3((Solution)):
 
 class Solution4((Solution)):
     '''
-    Ö´ÐÐÓÃÊ± :68 ms, ÔÚËùÓÐ Python3 Ìá½»ÖÐ»÷°ÜÁË71.30%µÄÓÃ»§
-    ÄÚ´æÏûºÄ :13.3 MB, ÔÚËùÓÐ Python3 Ìá½»ÖÐ»÷°ÜÁË100.00%µÄÓÃ»§
+    æ‰§è¡Œç”¨æ—¶ :68 ms, åœ¨æ‰€æœ‰ Python3 æäº¤ä¸­å‡»è´¥äº†71.30%çš„ç”¨æˆ·
+    å†…å­˜æ¶ˆè€— :13.3 MB, åœ¨æ‰€æœ‰ Python3 æäº¤ä¸­å‡»è´¥äº†100.00%çš„ç”¨æˆ·
     '''
     
     __name__ = "Solution4"
@@ -93,8 +93,8 @@ class Solution4((Solution)):
 
 class Solution5((Solution)):
     '''
-    Ö´ÐÐÓÃÊ± :60 ms, ÔÚËùÓÐ Python3 Ìá½»ÖÐ»÷°ÜÁË83.73%µÄÓÃ»§
-    ÄÚ´æÏûºÄ :13.4 MB, ÔÚËùÓÐ Python3 Ìá½»ÖÐ»÷°ÜÁË100.00%µÄÓÃ»§
+    æ‰§è¡Œç”¨æ—¶ :60 ms, åœ¨æ‰€æœ‰ Python3 æäº¤ä¸­å‡»è´¥äº†83.73%çš„ç”¨æˆ·
+    å†…å­˜æ¶ˆè€— :13.4 MB, åœ¨æ‰€æœ‰ Python3 æäº¤ä¸­å‡»è´¥äº†100.00%çš„ç”¨æˆ·
     '''
     __name__ = "Solution5"
 

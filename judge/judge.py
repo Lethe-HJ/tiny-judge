@@ -37,9 +37,9 @@ class Judge:
         except AssertionError as e:
             print(e.args[0])
             return False
-        max_time = "{:4.3f}".format(max(self.time_li) * 100)
-        min_time = "{:4.3f}".format(min(self.time_li) * 100)
-        avg_time = "{:4.3f}".format(sum(self.time_li)/len(self.time_li) * 100)
+        max_time = "{:0>5.2f}".format(max(self.time_li) * 100)
+        min_time = "{:0>5.2f}".format(min(self.time_li) * 100)
+        avg_time = "{:0>5.2f}".format(sum(self.time_li)/len(self.time_li) * 100)
         print(f"{name}  sucess  {avg_time}  {min_time}  {max_time}")
 
 
